@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Ramger Duran (rarch) 👋
 
 - 🔭 I’m currently working on Landing Koma
 - 🌱 I’m currently learning Fronted
