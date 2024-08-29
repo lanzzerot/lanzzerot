@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Landing Koma
 - 🌱 I’m currently learning Fronted
 
-![GitHub followers](https://img.shields.io/github/followers/rarch-dev) [![](https://visitcount.itsvg.in/api?id=rarch-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rarch-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 💻 Tech Stack:
