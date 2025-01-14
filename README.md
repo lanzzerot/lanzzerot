@@ -9,23 +9,7 @@
   - Dirección de proyectos tecnológicos desde la idea inicial hasta su ejecución.  
   - Integración de estrategias de marketing digital para potenciar productos.  
 - **Enfoque**: Crear productos funcionales, estéticamente agradables y con un impacto significativo en la vida de los usuarios.  
-
----
-
-## 🚀 Proyectos destacados  
-### Koma Developers  
-- 🌐 **Web**: [komadev.com](https://komadev.com)  
-- 📱 Redes sociales: [koma.devops](https://instagram.com/koma.devops)  
-- 📩 Contacto: [team@komadev.com](mailto:team@komadev.com) | ☎️ **849-281-1452**  
-
-### **Medichest**  
-- App React Native para la gestión de medicamentos en el hogar, diseñada especialmente para adultos mayores.  
-
-### **Woodify**  
-- Aplicación para calcular y gestionar precios en un aserradero, con diseño basado en Material 3 adaptado a React Native.  
-
-### **Telemon**  
-- Creación de contenido y diseño estratégico para soluciones de telecomunicaciones.  
+ 
 
 ---
 
