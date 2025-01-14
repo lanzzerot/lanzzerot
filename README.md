@@ -1,8 +1,4 @@
-<h1 align="center">Hola soy Rarch :D</h1>
-
-# Sr. Ramger Duran - Diseñador y Emprendedor Tecnológico  
-
-¡Hola! Soy **Ramger Duran**, diseñador profesional en marketing digital y CEO de [Koma Developers](https://komadev.com). Con más de [X años] de experiencia en diseño, desarrollo y dirección de proyectos tecnológicos, estoy apasionado por transformar ideas en productos innovadores que resuelvan problemas reales.  
+¡Hola! Soy **Ramger Duran**, diseñador profesional en marketing digital y CEO de [Koma Developers](https://komadev.com). Con más de 2 años de experiencia en diseño, desarrollo y dirección de proyectos tecnológicos, estoy apasionado por transformar ideas en productos innovadores que resuelvan problemas reales.  
 
 ---
 
