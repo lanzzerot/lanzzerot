@@ -3,46 +3,37 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarch-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+## Ramger Duran - Frontend Developer & UI/UX Designer
 
-¡Hola! Soy **Ramger Duran**, diseñador profesional en marketing digital y CEO de [Koma Developers](https://komadev.com). Con más de 2 años de experiencia en diseño, desarrollo y dirección de proyectos tecnológicos, estoy apasionado por transformar ideas en productos innovadores que resuelvan problemas reales.  
+Welcome to my GitHub! I'm **Ramger Duran**, a passionate frontend developer and UI/UX designer with expertise in creating seamless and user-friendly digital experiences. I specialize in **React**, **Astro**, and **UI/UX design** with a strong focus on optimizing user interactions.
 
----
+## 🚀 Skills & Technologies
 
-## 🌟 Sobre mí  
-- **Rol actual**: CEO y Head of Product Design en [Koma Developers](https://komadev.com), una empresa dedicada al desarrollo de software que crea soluciones digitales con propósito.  
-- **Especialidades**:  
-  - Diseño de experiencias digitales enfocadas en el usuario.  
-  - Dirección de proyectos tecnológicos desde la idea inicial hasta su ejecución.  
-  - Integración de estrategias de marketing digital para potenciar productos.  
-- **Enfoque**: Crear productos funcionales, estéticamente agradables y con un impacto significativo en la vida de los usuarios.  
- 
+- **Frontend Development**:
+  - React
+  - JavaScript (ES6+)
+  - HTML5 & CSS3
+  - React Native
+  - Astro
+  - Material UI
+  
+- **UI/UX Design**:
+  - Figma
+  - User Research & Testing
 
----
+- **Version Control**:
+  - Git & GitHub
 
-## 🎯 Filosofía  
-"No se trata solo de escribir código, sino de crear futuro a través de soluciones digitales que inspiren y transformen."  
-
----
-
-## 🛠️ Herramientas y habilidades  
-- **Diseño y prototipado**: Figma, Adobe Creative Suite.  
-- **Desarrollo frontend**: React, React Native, Astro.  
-- **Gestión de equipos**: Metodologías ágiles, liderazgo creativo.  
-- **Marketing digital**: Estrategia de marca, contenido digital.  
-
----
-
-## 🤝 Colaboremos  
-¿Tienes una idea y quieres llevarla al siguiente nivel? ¡Hablemos!  
-📩 [team@komadev.com](mailto:team@komadev.com)  
-📱 **849-281-1452**  
-
----
-
-*"Códigos que crean futuro"*  
+- **Other Tools**:
+  - Firebase
+  - Node.js
+  - Docker (Basic Knowledge)
 
 
+## 📫 How to Reach Me
+Feel free to reach out for collaborations, job opportunities, or to discuss any frontend or UI/UX projects.
 
+## 💡 Fun Fact
+When I'm not coding, I enjoy designing intuitive user interfaces and exploring new tools to improve my workflow.
 
-###
+Thanks for stopping by!
