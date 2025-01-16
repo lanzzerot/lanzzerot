@@ -9,25 +9,7 @@ Welcome to my GitHub! I'm **Ramger Duran**, a passionate frontend developer and 
 
 ## 🚀 Skills & Technologies
 
-- **Frontend Development**:
-  - React
-  - JavaScript (ES6+)
-  - HTML5 & CSS3
-  - React Native
-  - Astro
-  - Material UI
-  
-- **UI/UX Design**:
-  - Figma
-  - User Research & Testing
-
-- **Version Control**:
-  - Git & GitHub
-
-- **Other Tools**:
-  - Firebase
-  - Node.js
-  - Docker (Basic Knowledge)
+I'm proficient in **Frontend Development** using **React**, **JavaScript (ES6+)**, **HTML5**, **CSS3**, **React Native**, and **Astro**. I have a solid grasp of **Tailwind CSS** and **Material UI** for building modern, responsive interfaces. For **UI/UX Design**, I specialize in using tools like **Figma**, **Adobe XD**, and **Sketch** to craft intuitive, user-centered designs. Additionally, I have experience with **Git** for version control, **Node.js** for backend integrations, **Firebase** for cloud solutions, and working with **REST APIs**. I am always eager to learn new technologies and improve my skills to create impactful digital experiences.
 
 
 ## 📫 How to Reach Me
