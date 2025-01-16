@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm **Ramger Duran**, a passionate frontend developer and UI/UX designer with expertise in creating seamless and user-friendly digital experiences. I specialize in **React**, **Astro**, and **UI/UX design** with a strong focus on optimizing user interactions.
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rarch-dev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarch-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
