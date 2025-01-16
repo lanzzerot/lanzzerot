@@ -1,4 +1,7 @@
-<div aling="center"><a href="https://app.daily.dev/ramgerduran"><img src="https://api.daily.dev/devcards/v2/jNKaNAYlJ9DJCuKkFA5ti.png?r=jm2&type=wide" width="652" alt="Ramger Duran's Dev Card"/></a></div>
+<div align="center">
+<a href="https://app.daily.dev/ramgerduran"><img src="https://api.daily.dev/devcards/v2/jNKaNAYlJ9DJCuKkFA5ti.png?r=jm2&type=wide" width="652" alt="Ramger Duran's Dev Card"/></a>
+</div>
+
 
 ¡Hola! Soy **Ramger Duran**, diseñador profesional en marketing digital y CEO de [Koma Developers](https://komadev.com). Con más de 2 años de experiencia en diseño, desarrollo y dirección de proyectos tecnológicos, estoy apasionado por transformar ideas en productos innovadores que resuelvan problemas reales.  
 
