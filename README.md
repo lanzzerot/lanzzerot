@@ -1,4 +1,4 @@
-# Ramger Duran - Frontend Developer & UI/UX Designer
+## Ramger Duran - Frontend Developer & UI/UX Designer
 
 Welcome to my GitHub! I'm **Ramger Duran**, a passionate frontend developer and UI/UX designer with expertise in creating seamless and user-friendly digital experiences. I specialize in **React**, **Astro**, and **UI/UX design** with a strong focus on optimizing user interactions.
 
