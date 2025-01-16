@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://app.daily.dev/ramgerduran"><img src="https://api.daily.dev/devcards/v2/jNKaNAYlJ9DJCuKkFA5ti.png?r=jm2&type=wide" width="652" alt="Ramger Duran's Dev Card"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rarch-dev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarch-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -42,9 +43,6 @@
 *"Códigos que crean futuro"*  
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rarch-dev&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rarch-dev&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+
 
 ###
