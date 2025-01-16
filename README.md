@@ -3,6 +3,9 @@
 </div>
 
 
+
+
+
 ¡Hola! Soy **Ramger Duran**, diseñador profesional en marketing digital y CEO de [Koma Developers](https://komadev.com). Con más de 2 años de experiencia en diseño, desarrollo y dirección de proyectos tecnológicos, estoy apasionado por transformar ideas en productos innovadores que resuelvan problemas reales.  
 
 ---
