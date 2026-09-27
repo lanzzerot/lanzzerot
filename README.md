@@ -109,17 +109,6 @@ Ubicado en **República Dominicana** 🇩🇴 | Operando a través de **Korsen D
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanzzerot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzzerot&layout=compact&theme=tokyonight&hide=html,css"/>
-
-</div>
-
----
-
 ## 📬 Contacto & Redes
 
 <div align="center">
