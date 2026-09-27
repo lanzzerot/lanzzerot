@@ -1,23 +1,133 @@
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ramger Duran
-=====================================================================================================================================
+# ¡Hola, soy Ramger Durán! 👋
+### **Software Engineer | Full-Stack & Mobile Developer**
 
-Web developer and UI Designer
------------------------------
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanzzerot/)
+[![Portfolio](https://img.shields.io/badge/Korsen_Dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://korsen.dev)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramger.duran@gmail.com)
+[![Platzi](https://img.shields.io/badge/Platzi-0C1635?style=for-the-badge&logo=platzi&logoColor=GREEN)](https://platzi.com/p/lanzzerot/)
 
-I'm proficient in Frontend Development using React, JavaScript (ES6+), HTML5, CSS3, React Native, and Astro. I have a solid grasp of Tailwind CSS and Material UI for building modern, responsive interfaces. For UI/UX Design, I specialize in using tools like Figma, Adobe XD, and Sketch to craft intuitive, user-centered designs. Additionally, I have experience with Git for version control, Node.js for backend integrations, Firebase for cloud solutions, and working with REST APIs. I am always eager to learn new technologies and improve my skills to create impactful digital experiences.
+---
 
+### 🚀 Transformando necesidades de negocio en software escalable, reactivo y multiplataforma.
 
+Ubicado en **República Dominicana** 🇩🇴 | Operando a través de **Korsen Dev**
 
-*   🌍  I'm based in Republica Dominicana
-*   🖥️  See my portfolio at [Portfolio Webpage](http://korsen.dev)
-*   ✉️  You can contact me at [rduran@korsen.dev](mailto:rduran@korsen.dev)
-*   🚀  I'm currently working on [My webpage](http://korsen.dev)
-*   🧠  I'm currently learning Django Rest Framework
+</div>
 
+---
 
+## ⚡ Sobre mí
 
-<p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" /></a><a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg" alt="Shadcn/ui" title="Shadcn/ui" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" alt="NestJS" title="NestJS" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" alt="Sketch" title="Sketch" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://squarespace.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/squarespace-colored.svg" alt="Squarespace" title="Squarespace" width="36" height="36" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" alt="Raspberry Pi" title="Raspberry Pi" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
-                  </p>
-                  
+* 🏢 **Líder Técnico & Software Engineer** en **Korsen Dev**, enfocado en la arquitectura de software, desarrollo multiplataforma y soluciones SaaS.
+* 🛠️ Especializado en **Flutter** (Mobile/Desktop/Web), **React / Next.js**, **TypeScript**, **.NET 9 / C#** y arquitecturas serverless en la nube con **Convex**.
+* 🌐 Experiencia en diseño de **APIs RESTful**, sistemas de facturación/contabilidad, logística urbana con geolocalización GPS en tiempo real y desarrollo *Offline-First*.
+* 🔒 Enfocado en principios de **ciberseguridad, desarrollo seguro (OWASP)** y administración de servidores **Linux**.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+<div align="center">
+
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Cloud
+![.NET](https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex_Cloud-FF4F00?style=for-the-badge&logo=convex&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🏢 [Korsen ERP](https://github.com/lanzzerot) — Enterprise Resource Planning
+> **Software empresarial multiplataforma para la gestión integral de operaciones, finanzas y proyectos.**
+
+* **Clean Architecture & Feature-First:** Separación estricta de capas en Flutter con gestión de estado mediante **Riverpod**, **Freezed** y **GoRouter**.
+* **Backend Serverless:** Construido sobre **Convex Cloud** con funciones en TypeScript para operaciones reactivas en tiempo real.
+* **Módulos Empresariales:** CRM de clientes, Facturación con impuestos (ITBIS/IVA), Cotizaciones, Cobros multimétodo y **Libro Mayor Contable (Ledger)**.
+* **Motor PDF Pixel-Perfect:** Renderizado vectorial dinámico a 288 DPI para comprobantes y facturas preservando la identidad de marca.
+* *Stack:* `Flutter` · `Dart` · `Convex` · `TypeScript` · `Riverpod` · `Clean Architecture`
+
+---
+
+### 🎟️ [INSIDE](https://github.com/lanzzerot) — Event Ticketing Platform
+> **Plataforma web de ticketing y e-commerce con verificación en puerta mediante códigos QR.**
+
+* **Dashboard Administrativo:** Creación de eventos, tipos de boleto, aprobación/rechazo de pagos por transferencia e hipervínculos únicos de compra.
+* **Validación QR & Cortesías:** Generación de boletos digitales con QR exportables a PDF/PNG (`html-to-image`) y sistema de cortesías (hasta 50 por lote) aisladas de las métricas de ingresos.
+* **Autenticación & Test:** Seguridad con **Convex Auth** y pruebas automatizadas con **Vitest**.
+* *Stack:* `React 18` · `TypeScript` · `Vite 7` · `Convex` · `Tailwind CSS` · `shadcn/ui` · `Vitest`
+
+---
+
+### 🛵 [Punto Mandao](https://github.com/lanzzerot) — Logística Urbana y Delivery
+> **Ecosistema multiplataforma para el seguimiento y entrega de mandados con rastreo GPS en tiempo real.**
+
+* **Logística en Tiempo Real:** Seguimiento GPS entre cliente y repartidor con cálculo de rutas vía **OSRM** y mapas interactivos con `flutter_map`.
+* **Comunicación Directa:** Chat integrado en tiempo real sobre la infraestructura reactiva de Convex.
+* **Diseño Adaptativo:** Librería de componentes propia (`pm_ui`) construida en **Material 3** para experiencia optimizada en móviles, tablets y escritorio.
+* *Stack:* `Flutter 3.22+` · `Dart` · `Convex` · `Material 3` · `OSRM` · `Geolocalización`
+
+---
+
+### 🪵 [Aserradero RYD](https://github.com/lanzzerot) — Sistema de Gestión Industrial
+> **Software Offline-First orientado a la gestión de inventario, asistencia y nómina en el sector industrial.**
+
+* **Offline-First:** Persistencia y sincronización de datos locales mediante **SQLite** sin dependencia de conexión constante a internet.
+* **Operativa:** Módulos de control de stock de materia prima, registro de asistencia de personal, procesamiento de nómina y reportes en PDF.
+* *Stack:* `Flutter` · `Dart` · `SQLite` · `Offline-First` · `PDF`
+
+---
+
+### 🔴 [Pokédex](https://github.com/lanzzerot) — Full-Stack Web Application
+> **Aplicación desacoplada Full-Stack con catálogo de 1,026 Pokémon e integración de API REST en .NET 9.**
+
+* **Frontend Moderno:** Construido con **Next.js 16 (App Router)**, **React 19** y **TypeScript** con búsqueda rápida (`Ctrl+K`) y gestión de equipos en `localStorage`.
+* **Backend Robust (C#):** API REST en **.NET 9** bajo arquitectura en capas (*Domain, Application, Infrastructure, API*) con respuestas **RFC 7807**, rate limiting y soporte Docker multi-stage.
+* *Stack:* `Next.js 16` · `React 19` · `TypeScript` · `.NET 9` · `C#` · `OpenAPI` · `Docker`
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanzzerot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzzerot&layout=compact&theme=tokyonight&hide=html,css"/>
+
+</div>
+
+---
+
+## 📬 Contacto & Redes
+
+<div align="center">
+
+¿Tienes un proyecto en mente o quieres colaborar en algo increíble?
+
+📩 **Email:** [ramger.duran@gmail.com](mailto:ramger.duran@gmail.com)  
+🌐 **Website:** [korsen.dev](https://korsen.dev)  
+💼 **LinkedIn:** [linkedin.com/in/lanzzerot](https://www.linkedin.com/in/lanzzerot/)
+
+</div>
